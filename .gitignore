@@ -1,0 +1,8 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules
+
+# AWS Lambda function .ZIP files
+*.zip

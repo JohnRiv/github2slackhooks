@@ -1,0 +1,22 @@
+{
+  "name": "github2slackhooks",
+  "version": "1.0.0",
+  "description": "Experimenting with GitHub, AWS Lambda & Slack",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnRiv/github2slackhooks.git"
+  },
+  "author": "John Riviello <github@riviello.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnRiv/github2slackhooks/issues"
+  },
+  "homepage": "https://github.com/JohnRiv/github2slackhooks#readme",
+  "scripts": {
+    "zip": "node scripts/zip.js"
+  },
+  "devDependencies": {
+    "archiver": "^0.21.0"
+  }
+}

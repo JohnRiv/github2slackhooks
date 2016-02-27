@@ -1,0 +1,15 @@
+{
+  "name": "github-issues-event-lambda-function",
+  "version": "1.0.0",
+  "description": "AWS Lamdba Function to send GitHub Issue Events to Slack",
+  "main": "index.js",
+  "private": true,
+  "author": "John Riviello <github@riviello.net>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.2.39",
+    "promise": "^7.1.1",
+    "request": "^2.69.0",
+    "util": "^0.10.3"
+  }
+}
